@@ -37,7 +37,7 @@
 
 Clone this repo to your desktop and run `npm install` to install all the dependencies.
 Then run `expo start or expo start --tunnel chouse android,web or ios` to start the application locally.
-Tailwind run `npm run dev:tailwind`.
+Tailwind run `npm run dev:tailwind`. Also cd Stepzen folder then `stepzen start`.
 
 to update expo npm install -g expo-cli
 ---
